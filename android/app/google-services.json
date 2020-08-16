@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36058275502",
+    "firebase_url": "https://andy-fb-login.firebaseio.com",
+    "project_id": "andy-fb-login",
+    "storage_bucket": "andy-fb-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36058275502:android:b70949645d450d4e2e973f",
+        "android_client_info": {
+          "package_name": "com.example.andy_fb_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36058275502-qaocfkds2a122i7fid0ll0tbnskpbq76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtAnsjkP5iVuh6em6SBE6lBKxxlKJhQ18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36058275502-qaocfkds2a122i7fid0ll0tbnskpbq76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
